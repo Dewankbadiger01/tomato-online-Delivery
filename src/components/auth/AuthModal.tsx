@@ -18,7 +18,7 @@ export const AuthModal: React.FC = () => {
   const [phone, setPhone] = useState('9845231092');
   const [otpSent, setOtpSent] = useState(false);
   const [otp, setOtp] = useState('4281');
-  const [email, setEmail] = useState('dewankbadiger628@gmail.com');
+  const [email, setEmail] = useState('dewankbadiger@gmail.com');
   const [password, setPassword] = useState('tomato123');
 
   // Sign up form state
@@ -445,7 +445,7 @@ export const AuthModal: React.FC = () => {
                   }}
                   className="text-rose-600 font-bold hover:underline"
                 >
-                  ⚡ Chef Sanjeev
+                  ⚡ Chef Sameer Besin
                 </button>
               </div>
             </div>
